@@ -1,0 +1,3 @@
+[submodule "ASSET-Hub"]
+	path = ASSET-Hub
+	url = git@github.com:Tausi95/ASSET-Hub.git
