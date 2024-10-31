@@ -1,0 +1,66 @@
+/* Mentorship.css */
+.mentorship-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f4f7fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.field-selection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.field-selection label {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.field-selection select {
+  padding: 10px;
+  width: 50%;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #333;
+}
+
+.field-selection select:focus {
+  border-color: #0056b3;
+  outline: none;
+}
+
+.selected-field-info {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.selected-field-info h2 {
+  color: #007bff;
+  margin-bottom: 15px;
+}
+
+.selected-field-info p {
+  color: #666;
+}
+

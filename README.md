@@ -1,13 +1,8 @@
-# ASSETHub
-online and offline high-school stem studie
-
-Here’s the modified README with the project name changed from "STEMProlinks" to "ASSET-Hub":
-
 ---
 
-# ASSET-Hub
+# STEMProlinks
 
-ASSET-Hub is an innovative web application designed to foster connections among professionals, students, and enthusiasts across various sectors. Built using React, it enables users to network, collaborate, share resources, and participate in relevant events.
+STEMProlinks is an innovative web application designed to foster connections among professionals, students, and enthusiasts in STEM (Science, Technology, Engineering, and Mathematics) fields. Built using React, it enables users to network, collaborate, share resources, and participate in STEM-related events.
 
 ## Table of Contents
 
@@ -22,13 +17,13 @@ ASSET-Hub is an innovative web application designed to foster connections among 
 
 ## Features
 
-- User Profiles: Create and manage personal or professional profiles, highlighting expertise and interests.
-- Networking: Connect with peers, mentors, and professionals from various fields.
+- User Profiles: Create and manage personal or professional profiles, highlighting your expertise and interests.
+- Networking: Connect with peers, mentors, and professionals from various STEM disciplines.
 - Resource Sharing: Share and access a library of resources, including articles, papers, and learning materials.
-- Project Collaboration: Collaborate on projects and work in teams to solve real-world problems.
-- Event Management: Organize, promote, and participate in events such as workshops, webinars, and hackathons.
+- Project Collaboration: Collaborate on STEM-related projects and work in teams to solve real-world problems.
+- Event Management: Organize, promote, and participate in STEM-related events such as workshops, webinars, and hackathons.
 - Mentorship Opportunities: Connect students or early-career professionals with mentors in specific fields.
-- Dynamic Newsfeed: Stay updated with the latest developments through personalized news and articles.
+- Dynamic Newsfeed: Stay updated with the latest developments in STEM through personalized news and articles.
 
 ## Technology Stack
 
@@ -51,7 +46,7 @@ ASSET-Hub is an innovative web application designed to foster connections among 
 
 ## Installation
 
-To get started with ASSET-Hub, follow the steps below:
+To get started with STEMProlinks, follow the steps below:
 
 ### Prerequisites
 
@@ -67,8 +62,8 @@ Before proceeding, ensure you have the following installed:
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/Tausi95/ASSET-Hub.git
-cd ASSET-Hub
+git clone https://github.com/Tausi95/STEMProlinks.git
+cd STEMProlinks
 ```
 
 ### Backend Configuration
@@ -77,7 +72,7 @@ cd ASSET-Hub
    - Create a `.env` file at the root of the project and add your MySQL database credentials as follows:
 
    ```bash
-   DB_NAME=assethub_db
+   DB_NAME=stemprolinks_db
    DB_USER=root
    DB_PASS=yourpassword
    DB_HOST=localhost
@@ -115,7 +110,7 @@ npm install
 
 ### Running the Application
 
-1. Start the Backend:
+1.Start the Backend:
 
 ```bash
 cd backend
@@ -124,7 +119,7 @@ npm start
 
 By default, the backend runs on `http://localhost:5000`.
 
-2. Start the Frontend:
+2.*Start the Frontend:
 
 ```bash
 cd ../frontend
@@ -148,10 +143,10 @@ This will create a build folder with optimized assets for deployment.
 Once the application is running, users can:
 
 1. Create an Account: Register by providing personal or professional details.
-2. Explore Profiles: Browse and connect with other professionals and students.
+2. Explore Profiles: Browse and connect with other STEM professionals and students.
 3. Join Events: Participate in events, webinars, and workshops listed on the platform.
-4. Collaborate: Start or join projects to work on innovative solutions in various fields.
-5. Access Resources: Utilize a variety of resources shared by the community.
+4. Collaborate: Start or join projects to work on innovative solutions in STEM fields.
+5. Access Resources: Utilize a variety of STEM-related resources shared by the community.
 
 ## Contributing
 
@@ -178,7 +173,7 @@ Make sure to follow the coding guidelines and include relevant tests for new fea
 
 ### Reporting Issues
 
-If you encounter any issues or bugs, feel free to [open an issue](https://github.com/Tausi95/ASSET-Hub/issues) on GitHub.
+If you encounter any issues or bugs, feel free to [open an issue](https://github.com/Tausi95/STEMProlinks/issues) on GitHub.
 
 ## License
 
@@ -188,5 +183,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to reach out:
 
-- Email: [chancy.tsongao@yahoo.com](mailto:tausipro@gmail.com)
-- GitHub: [Tausi95](https://github.com/Tausi95
+- Email: [tausipro@gmail.com](mailto:tausipro@gmail.com)
+- GitHub: [Tausi95](https://github.com/Tausi95)
+
+---

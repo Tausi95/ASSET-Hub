@@ -1,0 +1,76 @@
+/* About.css */
+
+.about {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.welcome-section, .intro-card, .mission-card, .team-section, .github-link-section {
+  background-color: #f9fafb;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.welcome-section h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.intro-card h3, .mission-card h3, .team-section h3 {
+  font-size: 1.5rem;
+  color: #4a90e2;
+}
+
+.team-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.team-member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 150px;
+}
+
+.team-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.member-info h4 {
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
+
+.social-links a {
+  margin: 0 5px;
+  color: #4a90e2;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.github-link-section {
+  text-align: center;
+}
+
+.github-link {
+  color: #4a90e2;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}

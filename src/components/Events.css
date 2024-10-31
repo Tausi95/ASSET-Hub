@@ -1,0 +1,58 @@
+/* Events.css */
+.events-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+h2 {
+  color: #2980b9;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #7f8c8d;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.event-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.event-item {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.event-item h3 {
+  margin: 0 0 5px 0;
+  color: #34495e;
+}
+
+.attend-btn, .subscribe-btn, .showcase-btn {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.attend-btn:hover, .subscribe-btn:hover, .showcase-btn:hover {
+  background-color: #2980b9;
+}
+

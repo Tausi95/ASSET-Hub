@@ -1,0 +1,77 @@
+/* Home.css */
+
+.home-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.hero-section {
+  text-align: center;
+  background-color: #f4f6f8;
+  padding: 40px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.hero-section h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.auth-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.auth-btn {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.auth-btn:hover {
+  background-color: #357ab8;
+}
+
+.cta-section, .highlights-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cta-btn {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.cta-btn:hover {
+  background-color: #357ab8;
+}
+
+.restricted-access {
+  text-align: center;
+  background-color: #ffe4e4;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.login-link, .signup-link {
+  color: #4a90e2;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.login-link:hover, .signup-link:hover {
+  color: #357ab8;
+}

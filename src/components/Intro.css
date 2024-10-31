@@ -1,0 +1,21 @@
+/* src/components/Intro.css */
+.intro {
+  text-align: center;
+  padding: 50px;
+}
+.cover-image {
+  background-image: url('../Images/bckg.jpg');
+  height: 300px;
+  background-size: cover;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+button {
+  margin-top: 20px;
+}
