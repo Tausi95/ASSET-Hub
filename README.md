@@ -1,8 +1,8 @@
 ---
 
-# STEMProlinks
+# ASSETHub 
 
-STEMProlinks is an innovative web application designed to foster connections among professionals, students, and enthusiasts in STEM (Science, Technology, Engineering, and Mathematics) fields. Built using React, it enables users to network, collaborate, share resources, and participate in STEM-related events.
+ASSETHUB is an innovative web application designed to foster connections among professionals, students, and enthusiasts in STEM (Science, Technology, Engineering, and Mathematics) fields. Built using React, it enables users to network, collaborate, share resources, and participate in STEM-related events.
 
 ## Table of Contents
 
